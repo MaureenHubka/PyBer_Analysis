@@ -8,4 +8,9 @@ Module 5 Challenge
 
 ### Overview of the analysis: Explain the purpose of the new analysis.
 ### Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
+![image_RideSharingSummaryByCityType.png](RideSharingSummaryByCityType.png)  
+
+![image_Total_fare_city_chart.png](Total_fare_city_chart.png)  
+
+
 ### Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
